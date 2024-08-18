@@ -86,13 +86,13 @@ body{
     grid-area: quantity;
 
 }
-.item-price {
+/* .item-price {
 
     grid-area:price;
     text-align:right;
     font-weight:bold;
     color:orangered;
-}
+} */
 .item-options-list{
     grid-area:options;
     list-style: none;
